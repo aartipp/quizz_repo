@@ -4,12 +4,9 @@ import Quizz from "./Components/Quizz";
 
 function App(){
   return (
-   
    <>
    <Quizz/>
    </>
-   
-    
   );
 }
 
